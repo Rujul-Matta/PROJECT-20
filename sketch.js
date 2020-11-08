@@ -1,4 +1,4 @@
-var car , ball;
+var car , wall;
 var speed , weight ;
 var wall_image;
 var background2 , background_i;
